@@ -1,0 +1,9 @@
+{
+  "aps": {
+    "alert": {
+      "title": "Bonjour !",
+      "body": "Ceci est une notification test."
+    },
+    "sound": "default"
+  }
+}
